@@ -42,11 +42,19 @@ CineScope explores movie data through **data cleaning, exploratory analysis, and
 
 ## 📁 Project Structure
 
-```text
 CineScope-Movie-Analytics/
+│
 ├── data/
+│   └── CineScope_Data.csv
+│
 ├── notebooks/
+│   └── CineScope_Movie_EDA.ipynb
+│
 ├── images/
+│   ├── genre_analysis.png
+│   ├── voting_analysis.png
+│   └── release_trends.png
+│
 ├── README.md
 ├── requirements.txt
 └── .gitignore
