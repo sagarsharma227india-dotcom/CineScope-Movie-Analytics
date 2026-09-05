@@ -48,4 +48,4 @@ CineScope-Movie-Analytics/
 ├── images/
 ├── README.md
 ├── requirements.txt
-└── .gitignore   explain this
+└── .gitignore   
